@@ -1500,7 +1500,7 @@
         <div class="header-top">
             <div class="container">
                 <div class="contact-info">
-                    <span><i class="fas fa-phone"></i> 07031641389, 08079845984</span>
+                    <span><i class="fas fa-phone"></i> 07031641389</span>
                     <span><i class="fas fa-envelope"></i> info@cognitivelearningacademy.edu.ng</span>
                 </div>
                 <div class="social-links">
