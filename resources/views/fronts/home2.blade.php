@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mercy Dew School - We Learn To Excel</title>
+    <title>Cognitive Learning Academy - We Learn To Excel</title>
 
     <!-- Google Fonts -->
     <link
@@ -1500,8 +1500,8 @@
         <div class="header-top">
             <div class="container">
                 <div class="contact-info">
-                    <span><i class="fas fa-phone"></i> 08035270494, 08079845984</span>
-                    <span><i class="fas fa-envelope"></i> info@mercydewschool.edu.ng</span>
+                    <span><i class="fas fa-phone"></i> 07031641389, 08079845984</span>
+                    <span><i class="fas fa-envelope"></i> info@cognitivelearningacademy.edu.ng</span>
                 </div>
                 <div class="social-links">
                     <a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -1517,7 +1517,7 @@
                     <!-- Placeholder for school logo -->
                     {{-- <div style="width: 60px; height: 60px; background: linear-gradient(45deg, var(--primary-color), var(--secondary-color)); border-radius: 50%; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; font-size: 1.2rem;">MDS</div> --}}
                     <img src="{{asset('school-images/mercydew_logo.jpeg')}}" style="width: 60px; height: 60px; object-fit: cover; border-radius: 50%;" />
-                    <h1>Mercy <span>Dew</span> School</h1>
+                    <h1>Cognitive  <span>Learning </span> Academy</h1>
                 </div>
                 <ul class="nav-links">
                     <li><a href="#" class="nav-link" data-page="home">Home</a></li>
@@ -1556,18 +1556,18 @@
     <section class="welcome">
         <div class="container">
             <div class="section-title" data-aos="fade-up">
-                <h2>Welcome to Mercy Dew School</h2>
+                <h2>Welcome to Cognitive Learning Academy</h2>
             </div>
             <div class="welcome-content">
                 <div class="welcome-text" data-aos="fade-right">
                     <h3>A Place Where Every Child Learns to Excel</h3>
-                    <p>At Mercy Dew School, we are passionate about providing a good standard education and eradicating examination malpractice in our society. We discovered the decay in our education system and are committed to grooming children from all classes with a solid foundation.</p>
+                    <p>At Cognitive Learning Academy, we are passionate about providing a good standard education and eradicating examination malpractice in our society. We discovered the decay in our education system and are committed to grooming children from all classes with a solid foundation.</p>
                     <p>We are currently implementing E-Learning in our school to prepare our students for a world that is switching to computer-based testing for all external examinations.</p>
                     <button class="btn" id="discoverStoryBtn">Discover Our Story</button>
                 </div>
                 <div class="welcome-image" data-aos="fade-left">
                     <img src="https://images.unsplash.com/photo-1588072432836-e10032774350?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1172&q=80"
-                        alt="Students at Mercy Dew School">
+                        alt="Students at Cognitive Learning Academy">
                 </div>
             </div>
         </div>
@@ -1757,7 +1757,7 @@
                 <div class="anthem" data-aos="fade-right">
                     <h3>School Anthem</h3>
                     <div class="anthem-content">
-                        <p>Mercy dew school is the best school,<br>
+                        <p>Cognitive Learning Academy is the best school,<br>
                         is the best school in the world,<br>
                         greater heights and mind exploits<br>
                         is the portion of our school</p>
@@ -1767,12 +1767,12 @@
                         knowledge is light we learn to excel<br>
                         we are light and we shine bright</p>
                         
-                        <p>Mercy dew school is the best school,<br>
+                        <p>Cognitive Learning Academy is the best school,<br>
                         is the best school in the world,<br>
                         greater heights and mind exploits<br>
                         is the portion of our school</p>
                         
-                        <p>We are the learners of Mercy Dew school,<br>
+                        <p>We are the learners of Cognitive Learning Academy,<br>
                         We are the learners of mercy dew,<br>
                         we learn and create peace of mind<br>
                         come to us you will know that we are good,<br>
@@ -1791,7 +1791,7 @@
                 <div class="pledge" data-aos="fade-left">
                     <h3>Our Philosophy</h3>
                     <div class="pledge-content">
-                        <p>At Mercy Dew School, our philosophy is simple yet powerful: <strong>Our students are learning to excel</strong>.</p>
+                        <p>At Cognitive Learning Academy, our philosophy is simple yet powerful: <strong>Our students are learning to excel</strong>.</p>
                         
                         <p>This guiding principle shapes everything we do, from our curriculum design to our teaching methodologies. We believe that every child has the potential to achieve greatness when provided with the right environment, resources, and guidance.</p>
                         
@@ -1818,7 +1818,7 @@
             </div>
             <div class="testimonials-container">
                 <div class="testimonial active">
-                    <p class="testimonial-text">Mercy Dew School has transformed my child's approach to learning. The focus on e-learning and computer-based training has prepared her for the digital age in ways I couldn't have imagined.</p>
+                    <p class="testimonial-text">Cognitive Learning Academy has transformed my child's approach to learning. The focus on e-learning and computer-based training has prepared her for the digital age in ways I couldn't have imagined.</p>
                     <div class="testimonial-author">
                         <div class="author-image">
                             <img src="https://via.placeholder.com/70" alt="Parent">
@@ -1842,7 +1842,7 @@
                     </div>
                 </div>
                 <div class="testimonial">
-                    <p class="testimonial-text">As an educator myself, I appreciate how Mercy Dew School balances academic rigor with character development. The focus on "learning to excel" creates well-rounded individuals.</p>
+                    <p class="testimonial-text">As an educator myself, I appreciate how Cognitive Learning Academy balances academic rigor with character development. The focus on "learning to excel" creates well-rounded individuals.</p>
                     <div class="testimonial-author">
                         <div class="author-image">
                             <img src="https://via.placeholder.com/70" alt="Parent">
@@ -1866,7 +1866,7 @@
     <section class="gallery">
         <div class="container">
             <div class="section-title" data-aos="fade-up">
-                <h2>Life at Mercy Dew School</h2>
+                <h2>Life at Cognitive Learning Academy</h2>
             </div>
             <div class="gallery-container">
                 <div class="gallery-item" data-aos="zoom-in" data-aos-delay="100">
@@ -1911,7 +1911,7 @@
     <!-- CTA Section -->
     <section class="cta">
         <div class="container">
-            <h2 data-aos="fade-up">Ready to Join the Mercy Dew School Family?</h2>
+            <h2 data-aos="fade-up">Ready to Join the Cognitive Learning Academy Family?</h2>
             <p data-aos="fade-up" data-aos-delay="100">Empower your child to excel with world-class education, e-learning, and values that prepare them for success in an ever-changing world. Applications are now open for all programs!</p>
             <button class="btn" id="applyAdmissionBtn" data-aos="fade-up" data-aos-delay="200">Apply for Admission</button>
         </div>
@@ -1922,7 +1922,7 @@
         <div class="container">
             <div class="footer-container">
                 <div class="footer-about">
-                    <h3>About Mercy Dew School</h3>
+                    <h3>About Cognitive Learning Academy</h3>
                     <p>A world-class standard school with diversity in learning, grooming students from kindergarten to secondary education with a focus on e-learning and computer-based training.</p>
                     <div class="social-links">
                         <a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -1957,15 +1957,15 @@
                     <div class="contact-item">
                         <i class="fas fa-phone"></i>
                         <div>
-                            <p>08035270494</p>
-                            <p>08079845984</p>
+                            <p>07031641389</p>
+                            
                         </div>
                     </div>
                     <div class="contact-item">
                         <i class="fas fa-envelope"></i>
                         <div>
-                            <p>info@mercydewschool.edu.ng</p>
-                            <p>admissions@mercydewschool.edu.ng</p>
+                            <p>info@cognitivelearningacademy.edu.ng</p>
+                            <p>admissions@cognitivelearningacademy.edu.ng</p>
                         </div>
                     </div>
                 </div>
@@ -2000,7 +2000,7 @@
                 </div>
             </div>
             <div class="copyright">
-                <p>&copy; 2023 Mercy Dew School. All Rights Reserved.</p>
+                <p>&copy; 2023 Cognitive Learning Academy. All Rights Reserved.</p>
             </div>
         </div>
     </footer>
@@ -2010,7 +2010,7 @@
     <div class="modal" id="aboutModal">
         <div class="modal-content">
             <div class="modal-header">
-                <h2>About Mercy Dew School</h2>
+                <h2>About Cognitive Learning Academy</h2>
                 <button class="modal-close">&times;</button>
             </div>
             <div class="modal-body">
@@ -2055,7 +2055,7 @@
             </div>
             <div class="modal-body">
                 <h3>Comprehensive Educational Programs</h3>
-                <p>At Mercy Dew School, we offer a continuum of educational programs designed to nurture students from their earliest years through to secondary education.</p>
+                <p>At Cognitive Learning Academy, we offer a continuum of educational programs designed to nurture students from their earliest years through to secondary education.</p>
 
                 <h4>Kindergarten (KG1-KG3)</h4>
                 <p>Our youngest learners are nurtured in a stimulating environment that encourages exploration and early development through age-appropriate activities and play-based learning.</p>
@@ -2110,7 +2110,7 @@
                 <p>Our admissions team will review the application and inform you of the decision. If accepted, you'll receive an offer letter with further instructions.</p>
 
                 <h4>Step 6: Enrollment</h4>
-                <p>Complete the enrollment process by submitting the required fees and documents. Your child is now ready to begin their journey at Mercy Dew School!</p>
+                <p>Complete the enrollment process by submitting the required fees and documents. Your child is now ready to begin their journey at Cognitive Learning Academy!</p>
 
                 <h3>Programs Offered</h3>
                 <ul>
@@ -2136,7 +2136,7 @@
             </div>
             <div class="modal-body">
                 <h3>World-Class Learning Environment</h3>
-                <p>At Mercy Dew School, we've created a stimulating and safe environment where students can learn, grow, and develop into well-rounded individuals. Our facilities are designed to support our educational philosophy and enhance the learning experience.</p>
+                <p>At Cognitive Learning Academy, we've created a stimulating and safe environment where students can learn, grow, and develop into well-rounded individuals. Our facilities are designed to support our educational philosophy and enhance the learning experience.</p>
 
                 <h3>Academic Facilities</h3>
                 <h4>Modern Classrooms</h4>
@@ -2253,15 +2253,15 @@
                         <div class="contact-item">
                             <i class="fas fa-phone"></i>
                             <div>
-                                <p>08035270494</p>
-                                <p>08079845984</p>
+                                <p>07031641389</p>
+                                
                             </div>
                         </div>
                         <div class="contact-item">
                             <i class="fas fa-envelope"></i>
                             <div>
-                                <p>info@mercydewschool.edu.ng</p>
-                                <p>admissions@mercydewschool.edu.ng</p>
+                                <p>info@cognitivelearningacademy.edu.ng</p>
+                                <p>admissions@cognitivelearningacademy.edu.ng</p>
                             </div>
                         </div>
                     </div>
@@ -2294,7 +2294,7 @@
                 <div
                     style="height: 300px; background-color: #f1f1f1; border-radius: 10px; display: flex; align-items: center; justify-content: center; margin-top: 1rem;">
                     <p><i class="fas fa-map-marked-alt"
-                            style="font-size: 2rem; color: var(--primary-color); margin-right: 1rem;"></i> Map of Mercy Dew School Location</p>
+                            style="font-size: 2rem; color: var(--primary-color); margin-right: 1rem;"></i> Map of Cognitive Learning Academy Location</p>
                 </div>
             </div>
         </div>
@@ -2312,7 +2312,7 @@
                     <div class="anthem">
                         <h3>School Anthem</h3>
                         <div class="anthem-content">
-                            <p>Mercy dew school is the best school,<br>
+                            <p>Cognitive Learning Academy is the best school,<br>
                             is the best school in the world,<br>
                             greater heights and mind exploits<br>
                             is the portion of our school</p>
@@ -2322,12 +2322,12 @@
                             knowledge is light we learn to excel<br>
                             we are light and we shine bright</p>
                             
-                            <p>Mercy dew school is the best school,<br>
+                            <p>Cognitive Learning Academy is the best school,<br>
                             is the best school in the world,<br>
                             greater heights and mind exploits<br>
                             is the portion of our school</p>
                             
-                            <p>We are the learners of Mercy Dew school,<br>
+                            <p>We are the learners of Cognitive Learning Academy,<br>
                             We are the learners of mercy dew,<br>
                             we learn and create peace of mind<br>
                             come to us you will know that we are good,<br>
@@ -2346,7 +2346,7 @@
                     <div class="pledge">
                         <h3>Our Philosophy</h3>
                         <div class="pledge-content">
-                            <p>At Mercy Dew School, our philosophy is simple yet powerful: <strong>Our students are learning to excel</strong>.</p>
+                            <p>At Cognitive Learning Academy, our philosophy is simple yet powerful: <strong>Our students are learning to excel</strong>.</p>
                             
                             <p>This guiding principle shapes everything we do, from our curriculum design to our teaching methodologies. We believe that every child has the potential to achieve greatness when provided with the right environment, resources, and guidance.</p>
                             
@@ -2374,7 +2374,7 @@
                 <button class="modal-close">&times;</button>
             </div>
             <div class="modal-body">
-                <h3>Apply to Mercy Dew School</h3>
+                <h3>Apply to Cognitive Learning Academy</h3>
                 <p>Please complete the form below to apply for admission. All fields marked with an asterisk (*) are required.</p>
 
                 <form id="applicationForm">
@@ -2469,7 +2469,7 @@
                 <button class="modal-close">&times;</button>
             </div>
             <div class="modal-body">
-                <h3>Experience Mercy Dew School</h3>
+                <h3>Experience Cognitive Learning Academy</h3>
                 <p>We invite you to visit our campus and experience our learning environment. During your visit, you'll have the opportunity to tour our facilities, observe classes, and meet our dedicated staff.</p>
 
                 <form id="visitForm">
@@ -2703,9 +2703,9 @@
 
             switch (page) {
                 case 'about':
-                    title = 'About Mercy Dew School';
+                    title = 'About Cognitive Learning Academy';
                     content = `
-                        <p>Mercy Dew School is a world-class standard school with diversity in learning, grooming students from kindergarten to secondary education with a focus on e-learning and computer-based training.</p>
+                        <p>Cognitive Learning Academy is a world-class standard school with diversity in learning, grooming students from kindergarten to secondary education with a focus on e-learning and computer-based training.</p>
                         <h4>Our Mission</h4>
                         <p>To get children good education background from kindergarten to secondary education in order to build them with standard background to eradicate illiteracy in our society.</p>
                         <h4>Our Vision</h4>
@@ -2786,15 +2786,15 @@
                         <div class="contact-item">
                             <i class="fas fa-phone"></i>
                             <div>
-                                <p>08035270494</p>
-                                <p>08079845984</p>
+                                <p>07031641389</p>
+                                
                             </div>
                         </div>
                         <div class="contact-item">
                             <i class="fas fa-envelope"></i>
                             <div>
-                                <p>info@mercydewschool.edu.ng</p>
-                                <p>admissions@mercydewschool.edu.ng</p>
+                                <p>info@cognitivelearningacademy.edu.ng</p>
+                                <p>admissions@cognitivelearningacademy.edu.ng</p>
                             </div>
                         </div>
                         <button class="btn" id="contactMoreBtn">Send Message</button>
@@ -2966,7 +2966,7 @@
                 <div style="text-align: center; padding: 2rem;">
                     <i class="fas fa-check-circle" style="font-size: 3rem; color: var(--success-color); margin-bottom: 1rem;"></i>
                     <h3>Message Sent Successfully!</h3>
-                    <p>Thank you for contacting Mercy Dew School. We have received your message and will get back to you shortly.</p>
+                    <p>Thank you for contacting Cognitive Learning Academy. We have received your message and will get back to you shortly.</p>
                     <button class="btn" onclick="closeModal()">Close</button>
                 </div>
             `;
@@ -2980,7 +2980,7 @@
                 <div style="text-align: center; padding: 2rem;">
                     <i class="fas fa-check-circle" style="font-size: 3rem; color: var(--success-color); margin-bottom: 1rem;"></i>
                     <h3>Application Submitted Successfully!</h3>
-                    <p>Thank you for applying to Mercy Dew School. We have received your application and will contact you soon with the next steps.</p>
+                    <p>Thank you for applying to Cognitive Learning Academy. We have received your application and will contact you soon with the next steps.</p>
                     <button class="btn" onclick="closeModal()">Close</button>
                 </div>
             `;
@@ -2994,7 +2994,7 @@
                 <div style="text-align: center; padding: 2rem;">
                     <i class="fas fa-check-circle" style="font-size: 3rem; color: var(--success-color); margin-bottom: 1rem;"></i>
                     <h3>Visit Scheduled Successfully!</h3>
-                    <p>Thank you for scheduling a visit to Mercy Dew School. We have received your request and will confirm your visit shortly.</p>
+                    <p>Thank you for scheduling a visit to Cognitive Learning Academy. We have received your request and will confirm your visit shortly.</p>
                     <button class="btn" onclick="closeModal()">Close</button>
                 </div>
             `;
