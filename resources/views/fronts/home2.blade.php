@@ -1516,7 +1516,7 @@
                 <div class="logo">
                     <!-- Placeholder for school logo -->
                     {{-- <div style="width: 60px; height: 60px; background: linear-gradient(45deg, var(--primary-color), var(--secondary-color)); border-radius: 50%; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; font-size: 1.2rem;">MDS</div> --}}
-                    <img src="{{asset('school-images/mercydew_logo.jpeg')}}" style="width: 60px; height: 60px; object-fit: cover; border-radius: 50%;" />
+                    <img src="{{asset('school-images/coginitive_logo.png')}}" style="width: 60px; height: 60px; object-fit: cover; border-radius: 50%;" />
                     <h1>Cognitive  <span>Learning </span> Academy</h1>
                 </div>
                 <ul class="nav-links">
@@ -1949,9 +1949,9 @@
                     <div class="contact-item">
                         <i class="fas fa-map-marker-alt"></i>
                         <div>
-                            <p>3 Sofoluw Street, Off Lajorin Road</p>
-                            <p>Behind PS General Drug Center</p>
-                            <p>Muritala Way, Sabo Oke, Ilorin, Kwara State</p>
+                            <p>Adoman Estate, Odore Area,</p>
+                            <p>Egbejila Ilorin, Kwara State</p>
+                            
                         </div>
                     </div>
                     <div class="contact-item">
@@ -2245,9 +2245,9 @@
                         <div class="contact-item">
                             <i class="fas fa-map-marker-alt"></i>
                             <div>
-                                <p>3 Sofoluw Street, Off Lajorin Road</p>
-                                <p>Behind PS General Drug Center</p>
-                                <p>Muritala Way, Sabo Oke, Ilorin, Kwara State</p>
+                               <p>Adoman Estate, Odore Area,</p>
+                            <p>Egbejila Ilorin, Kwara State</p>
+                                
                             </div>
                         </div>
                         <div class="contact-item">
@@ -2778,9 +2778,9 @@
                         <div class="contact-item">
                             <i class="fas fa-map-marker-alt"></i>
                             <div>
-                                <p>3 Sofoluw Street, Off Lajorin Road</p>
-                                <p>Behind PS General Drug Center</p>
-                                <p>Muritala Way, Sabo Oke, Ilorin, Kwara State</p>
+                               <p>Adoman Estate, Odore Area,</p>
+                            <p>Egbejila Ilorin, Kwara State</p>
+                                
                             </div>
                         </div>
                         <div class="contact-item">
