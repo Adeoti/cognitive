@@ -1778,36 +1778,28 @@
                 <div class="anthem" data-aos="fade-right">
                     <h3>School Anthem</h3>
                     <div class="anthem-content">
-                        <p>Cognitive Learning Academy is the best school,<br>
-                            is the best school in the world,<br>
-                            greater heights and mind exploits<br>
-                            is the portion of our school</p>
+                        <p>
+                            Our days in school are precious,<br>
+                            We seek knowledge in work and play,<br>
+                            A bright and fruitful future,<br>
+                            Is built on efforts made today.
+                        </p>
 
-                        <p>Self discipline and self confidence<br>
-                            is the moral of our school,<br>
-                            knowledge is light we learn to excel<br>
-                            we are light and we shine bright</p>
+                        <p>
+                            Cognitive, our guiding flame,<br>
+                            With courage, wisdom and love,<br>
+                            Cognitive, cognitive forever,<br>
+                            We shall make the world a better place.
+                        </p>
 
-                        <p>Cognitive Learning Academy is the best school,<br>
-                            is the best school in the world,<br>
-                            greater heights and mind exploits<br>
-                            is the portion of our school</p>
-
-                        <p>We are the learners of Cognitive Learning Academy,<br>
-                            We are the learners of mercy dew,<br>
-                            we learn and create peace of mind<br>
-                            come to us you will know that we are good,<br>
-                            we are proud of Mercy Dew</p>
-
-                        <p>We live as one and share peace and love<br>
-                            learning to excel is the best thing<br>
-                            come to us you we know that we are good<br>
-                            we are proud of Mercy Dew</p>
-
-                        <p>We are proud !<br>
-                            We are proud !!<br>
-                            We are proud!!!</p>
+                        <p>
+                            Great ideas inspire our learning,<br>
+                            Let this be our noble pledge,<br>
+                            We'll serve our school and nation best.
+                        </p>
                     </div>
+
+
                 </div>
                 <div class="pledge" data-aos="fade-left">
                     <h3>Our Philosophy</h3>
